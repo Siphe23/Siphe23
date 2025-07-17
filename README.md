@@ -1,13 +1,18 @@
-# 👋 Hi, I’m Nasiphi Siphesihle Ndzumo
+👋 Hi, I’m NASIPHI SIPHESIHLE NDZUMO
+🌟 A passionate Full Stack Developer & aspiring Software Engineer from South Africa 🇿🇦
+💻 I enjoy building user-friendly, responsive web applications and scalable backend systems.
+✨ Lifelong learner, currently exploring advanced technologies and frameworks.
 
-🌟 A passionate Frontend Developer & aspiring Software Engineer from South Africa 🇿🇦  
-💻 I enjoy creating user-friendly, responsive web applications.  
-✨ Lifelong learner, currently exploring new technologies and frameworks.
+🚀 My Tech Stack
+🌐 Frontend: HTML, CSS, JavaScript, React.js
 
-## 🚀 My Tech Stack
+🖥️ Backend: Node.js, Express.js
 
+🗄️ Databases: MongoDB, Firebase
 
+☁️ Others: JSON Server, Git & GitHub
 
-## 📫 Let’s Connect
-- 💼 [LinkedIn]:http://www.linkedin.com/in/nasiphi-ndzumo-899354274
-- 📧 Email: siphesihlemzamane@gmail.com
+📫 Let’s Connect
+💼 LinkedIn
+
+📧 Email: siphesihlemzamane@gmail.com
