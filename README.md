@@ -1,16 +1,13 @@
-## Hi there 👋
+# 👋 Hi, I’m Nasiphi Siphesihle Ndzumo
 
-<!--
-**Siphe23/Siphe23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌟 A passionate Frontend Developer & aspiring Software Engineer from South Africa 🇿🇦  
+💻 I enjoy creating user-friendly, responsive web applications.  
+✨ Lifelong learner, currently exploring new technologies and frameworks.
 
-Here are some ideas to get you started:
+## 🚀 My Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+## 📫 Let’s Connect
+- 💼 [LinkedIn]:http://www.linkedin.com/in/nasiphi-ndzumo-899354274
+- 📧 Email: siphesihlemzamane@gmail.com
